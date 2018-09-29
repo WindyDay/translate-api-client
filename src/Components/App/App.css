@@ -1,3 +1,7 @@
+body{
+  color: #333333
+}
+
 .App {
   text-align: center;
 }
@@ -20,6 +24,10 @@
 
 .App-intro {
   font-size: large;
+}
+
+.main-container{
+  background: rgb(238, 238, 238)
 }
 
 @keyframes App-logo-spin {
